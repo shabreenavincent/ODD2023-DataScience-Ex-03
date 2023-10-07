@@ -12,8 +12,8 @@ Univariate analysis is basically the simplest form to analyze data. Uni means on
 - Step6: Do plots like boxplots,countplot,distribution plot,histogram plot.
 ### Program:
 ```
-Developed By: ROHIT JAIN D
-Register Number: 212222230120
+Developed By: shabreena vincent
+Register Number: 212222230141
 ```
 
 - Diabetes.csv
